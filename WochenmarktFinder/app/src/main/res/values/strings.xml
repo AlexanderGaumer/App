@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">WochenmarktFinder</string>
+    <string name="home">Home</string>
+    <string name="markets">Märkte</string>
+    <string name="list">Liste</string>
+    <string name="product">Produkt ...</string>
+    <string name="title_activity_maps">Map</string>
+</resources>
